@@ -1,0 +1,16 @@
+{
+    "version":"1.0",
+	"name": "Flashlight",
+    "description": "Simple flashlight application.",
+    "launch_path": "/index.html",
+    "icons": {
+        "32": "/images/icon_red032.png",
+        "48": "/images/icon_red048.png",
+        "128": "/images/icon_red128.png"
+    },
+	"developer": {
+        "name": "Pramod Bhandari",
+        "url": "http://www.pramodbhandari.com.np"
+    },
+    "default_locale": "en"
+}
